@@ -1,0 +1,42 @@
+h1, h2, h3, h4, body
+{
+	text-align : justify;
+	    color: #444;
+    max-width:650px;
+
+}
+
+h1, h2, h3, h4
+{
+
+	line-height: 1.2;
+	
+}
+
+body
+{
+	font-size: 18px ; 
+	line-height: 1.6;
+	max-width:650px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 40px auto;
+	
+}
+
+h1
+{
+	font-size: 2em;
+
+}
+h2
+{
+	font-size: 1.5em;
+
+}
+h3
+{
+	font-size: 1.17em;
+
+}
+
